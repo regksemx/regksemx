@@ -26,8 +26,4 @@
 @media (prefers-reduced-motion:reduce){.fade,.grow{animation:none;opacity:1;transform:none}.blink{animation:none}}
 </style><rect class="bg" x=".5" y=".5" width="839" height="111" rx="6"/>
 <g class="fade"><text x="28" y="52" class="name">regksem</text>
-<text x="28" y="80" class="mono">~/regksemx — java · python · typescript<tspan class="acc blink"> ▍</tspan></text></g>
-<g class="fade" style="animation-delay:.15s">
-<text x="812" y="46" class="lbl" text-anchor="end">ON GITHUB 4+ YEARS</text>
-<text x="812" y="66" class="lbl" text-anchor="end">257 REPOSITORIES · 6 ORGS</text>
-<text x="812" y="86" class="lbl" text-anchor="end">UPDATED 2026-10-06 20:13 UTC</text></g></svg>
+<text x="28" y="80" class="mono">~/regksemx — java · python · typescript<tspan class="acc blink"> ▍</tspan></text></g></svg>
