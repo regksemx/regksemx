@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="222" viewBox="0 0 480 222">
+<style>
+.t{font:600 16px -apple-system,Segoe UI,Helvetica,Arial,sans-serif;fill:#1f2328}
+.l{font:400 13px -apple-system,Segoe UI,Helvetica,Arial,sans-serif;fill:#1f2328}
+.p{font:400 13px -apple-system,Segoe UI,Helvetica,Arial,sans-serif;fill:#656d76}
+.bg{fill:#ffffff;stroke:#d0d7de}
+@media (prefers-color-scheme: dark){.t,.l{fill:#e6edf3}.p{fill:#9198a1}.bg{fill:#0d1117;stroke:#30363d}}
+</style>
+<rect class="bg" x="0.5" y="0.5" width="479" height="221" rx="8"/>
+<text x="24" y="38" class="t">Languages</text>
+<clipPath id="c"><rect x="24" y="56" width="432" height="10" rx="5"/></clipPath>
+<g clip-path="url(#c)"><rect x="24.00" y="56" width="274.21" height="10" fill="#b07219"/><rect x="298.21" y="56" width="82.11" height="10" fill="#3572A5"/><rect x="380.33" y="56" width="54.33" height="10" fill="#3178c6"/><rect x="434.66" y="56" width="9.50" height="10" fill="#A97BFF"/><rect x="444.15" y="56" width="4.47" height="10" fill="#f1e05a"/><rect x="448.62" y="56" width="3.09" height="10" fill="#00ADD8"/><rect x="451.71" y="56" width="2.05" height="10" fill="#41b883"/><rect x="453.76" y="56" width="0.70" height="10" fill="#4F5D95"/><rect x="454.46" y="56" width="1.54" height="10" fill="#8b949e"/></g>
+<circle cx="29.0" cy="88" r="5" fill="#b07219"/><text x="40.0" y="92" class="l">Java</text><text x="224.0" y="92" class="p" text-anchor="end">63.5%</text><circle cx="245.0" cy="88" r="5" fill="#3572A5"/><text x="256.0" y="92" class="l">Python</text><text x="440.0" y="92" class="p" text-anchor="end">19.0%</text><circle cx="29.0" cy="114" r="5" fill="#3178c6"/><text x="40.0" y="118" class="l">TypeScript</text><text x="224.0" y="118" class="p" text-anchor="end">12.6%</text><circle cx="245.0" cy="114" r="5" fill="#A97BFF"/><text x="256.0" y="118" class="l">Kotlin</text><text x="440.0" y="118" class="p" text-anchor="end">2.2%</text><circle cx="29.0" cy="140" r="5" fill="#f1e05a"/><text x="40.0" y="144" class="l">JavaScript</text><text x="224.0" y="144" class="p" text-anchor="end">1.0%</text><circle cx="245.0" cy="140" r="5" fill="#00ADD8"/><text x="256.0" y="144" class="l">Go</text><text x="440.0" y="144" class="p" text-anchor="end">0.7%</text><circle cx="29.0" cy="166" r="5" fill="#41b883"/><text x="40.0" y="170" class="l">Vue</text><text x="224.0" y="170" class="p" text-anchor="end">0.5%</text><circle cx="245.0" cy="166" r="5" fill="#4F5D95"/><text x="256.0" y="170" class="l">PHP</text><text x="440.0" y="170" class="p" text-anchor="end">0.2%</text><circle cx="29.0" cy="192" r="5" fill="#8b949e"/><text x="40.0" y="196" class="l">Other</text><text x="224.0" y="196" class="p" text-anchor="end">0.4%</text>
+</svg>
